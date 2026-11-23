@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mcauxcomm.org/sitemap.xml

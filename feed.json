@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Marion County AUXCOMM",
+    "description": "",
+    "home_page_url": "https://mcauxcomm.org",
+    "feed_url": "https://mcauxcomm.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NA0D"
+    },
+    "items": [
+    ]
+}
